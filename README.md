@@ -17,8 +17,10 @@ The Solidity code provided uses the ERC20 standard to issue Degen Tokens specifi
 
 ### Executing Program
 ![image](https://github.com/user-attachments/assets/e010bd39-3b01-439c-9d22-409812b69d00)
+
 1. In Remix IDE, under the Solidity Compiler tab on the left, select the EVM version (Istanbul or Berlin) for compatibility.
 2. Compile the DegenToken.sol file by clicking the blue compile button.
+   
 ![image](https://github.com/user-attachments/assets/8968ff07-8f39-49da-9adb-6a26df4b6a29)
 
 3. Under the Deploy and Run Transactions section on the left, select Injected Provider - Metamask as the environment and connect your Metamask account.
@@ -29,6 +31,7 @@ The Solidity code provided uses the ERC20 standard to issue Degen Tokens specifi
 
 Example:
 Snowtrace link: https://testnet.snowtrace.io/address/0x22E2F1F52C14728411B392AAFE8F65D749466778
+
 ![image](https://github.com/user-attachments/assets/f1752f4b-218b-436f-8614-4fc518f7ee94)
 
 ## Functions
