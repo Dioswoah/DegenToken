@@ -13,13 +13,11 @@ This Solidity code utilizes the ERC20 standard to create Degen Tokens for Degen 
 ### Executing Program
 1. In the Remix IDE, under the Solidity Compiler tab in the left navbar, select the EVM version (Istanbul or Berlin) for compatibility.
 2. Compile the DegenToken.sol by clicking the blue compile button.
-   ![image](image)
 3. Under Deploy and Run Transactions in the left navbar, choose Injected Provider - Metamask as the environment and connect your Metamask account.
 4. Ensure your Metamask account has some AVAX.
 5. Deploy the contract by clicking the orange deploy button.
 6. Copy the contract address after deployment.
 7. Go to Snowtrace Testnet (https://testnet.snowtrace.io/) and paste the contract address to view the transaction history.
-   ![image](image)
 
 Example: [Snowtrace Testnet Transaction History](https://testnet.snowtrace.io/address/0x12cB630Ce69a22548c4506e93c02c442433bAd50)
 
